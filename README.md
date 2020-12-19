@@ -1,4 +1,4 @@
-# Classifying-Fake-News-Using-Onion-Data
+# Classifying Fake News Using Onion Data
 
 The spread of misinformation threatens businesses and their reputations worldwide.  A 2019 report from the University of Baltimore estimates that companies spend over $9.5B to combat the negative impact of misinformation on their brands annually. To limit the spread of misinformation and mitigate its negative impact, companies need to find and debunk fake news as quickly as possible. 
 
